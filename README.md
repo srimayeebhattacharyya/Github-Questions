@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2960-count-tested-devices-after-test-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2960-count-tested-devices-after-test-operations) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
