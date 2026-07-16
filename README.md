@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0682-baseball-game) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -75,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0682-baseball-game) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
