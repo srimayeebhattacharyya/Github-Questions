@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0401-binary-watch) |
+## String
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
