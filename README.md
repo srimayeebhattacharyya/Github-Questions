@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0682-baseball-game) |
 | [1331-rank-transform-of-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2960-count-tested-devices-after-test-operations) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
