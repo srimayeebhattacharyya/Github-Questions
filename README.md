@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0486-predict-the-winner) |
 | [0682-baseball-game](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0682-baseball-game) |
 | [1027-longest-arithmetic-subsequence](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -133,5 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0486-predict-the-winner) |
 | [1027-longest-arithmetic-subsequence](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1027-longest-arithmetic-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
