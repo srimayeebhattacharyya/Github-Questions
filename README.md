@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Minimax
 |  |
 | ------- |
