@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2029-stone-game-ix) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2029-stone-game-ix) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2960-count-tested-devices-after-test-operations) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2029-stone-game-ix) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2960-count-tested-devices-after-test-operations) |
 ## Enumeration
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Dynamic Programming
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2029-stone-game-ix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -188,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -196,4 +202,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
