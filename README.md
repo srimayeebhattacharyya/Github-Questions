@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0682-baseball-game) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2960-count-tested-devices-after-test-operations) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
