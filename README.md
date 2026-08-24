@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1140-stone-game-ii) |
 | [1686-stone-game-vi](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1686-stone-game-vi) |
+| [1927-sum-game](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2029-stone-game-ix) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1927-sum-game](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1686-stone-game-vi](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1686-stone-game-vi) |
+| [1927-sum-game](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1140-stone-game-ii) |
 | [1686-stone-game-vi](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1686-stone-game-vi) |
+| [1927-sum-game](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2029-stone-game-ix) |
 ## Divide and Conquer
 |  |
