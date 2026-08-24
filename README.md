@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3618-split-array-by-prime-indices](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3618-split-array-by-prime-indices) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3618-split-array-by-prime-indices](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3618-split-array-by-prime-indices) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3618-split-array-by-prime-indices](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3618-split-array-by-prime-indices) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
