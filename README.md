@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0682-baseball-game) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
