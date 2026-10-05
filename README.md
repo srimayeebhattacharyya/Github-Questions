@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2553-separate-the-digits-in-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2960-count-tested-devices-after-test-operations) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0682-baseball-game) |
+| [2553-separate-the-digits-in-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3498-reverse-degree-of-a-string) |
