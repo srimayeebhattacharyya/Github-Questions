@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0682-baseball-game) |
+| [0856-score-of-parentheses](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Two Pointers
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0020-valid-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0856-score-of-parentheses](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1927-sum-game) |
@@ -274,5 +276,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
