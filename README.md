@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0888-fair-candy-swap) |
 | [1027-longest-arithmetic-subsequence](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1686-stone-game-vi) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3536-maximum-product-of-two-digits) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1686-stone-game-vi) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Counting Sort
 |  |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Dynamic Programming
