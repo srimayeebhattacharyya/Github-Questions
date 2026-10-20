@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0888-fair-candy-swap) |
 | [1027-longest-arithmetic-subsequence](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1686-stone-game-vi](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1686-stone-game-vi) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
