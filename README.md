@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1686-stone-game-vi](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1686-stone-game-vi) |
 | [1927-sum-game](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1027-longest-arithmetic-subsequence) |
 | [1140-stone-game-ii](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1686-stone-game-vi](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1686-stone-game-vi) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/3903-smallest-stable-index-i) |
 ## Zero-Sum Game
@@ -294,4 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/srimayeebhattacharyya/Github-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
